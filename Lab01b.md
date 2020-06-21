@@ -11,7 +11,7 @@
 
 _A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._
 
-## **How to keep yourself in a growth mindset**
+## **Hree is a 3 reminders of how to keep yourself in a growth mindset**
 
 - Keep in mind no pain, no gain
 - Every obstacle is a step to your future

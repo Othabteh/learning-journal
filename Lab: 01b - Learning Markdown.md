@@ -3,21 +3,20 @@ Hello! I'm Osama Al-thabteh
 - I am learning programing.
 - Here is my github profile. [Github](https://github.com/Othabteh/)
 <br>
-![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png =100x100)
+![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png =150x150)
 
 <br>
 
-# **Growth Mindset**
+# **_Growth Mindset_**
 
-_Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
+_A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._
 
 ## **How to keep yourself in a growth mindset**
-```markdown
-- If someone can do it the you can
+
+- Keep in mind no pain, no gain
 - Every obstacle is a step to your future
 - Always, Put your goal in front of you.
 
-```
 
 | Task  |  Link |
 |---|:-:|

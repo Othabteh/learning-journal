@@ -1,4 +1,4 @@
-**Hello!**<br>  **I'm Osama Al-thabteh** :+1:
+**Hello!**<br>  **I'm Osama Al-thabteh**
 - I've a bachelor degree in civil engineering <br>
 - I am learning programing.
 - Here is my github profile. [Github](https://github.com/Othabteh/)

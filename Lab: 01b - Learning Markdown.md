@@ -1,10 +1,10 @@
 Hello! I'm Osama Al-thabteh
 - I've a bachelor degree in civil engineering <br>
 - I am learning programing.
-- [Github](https://github.com/Othabteh/)
+- Here is my github profile. [Github](https://github.com/Othabteh/)
 <br>
-![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png)
-![](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png =100x100)
+![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png =100x100)
+
 <br>
 
 # **Growth Mindset**

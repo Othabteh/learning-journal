@@ -1,4 +1,4 @@
-###Hello every body, my name is osama I am going to till you about the **the growth mindset**
+##Hello every body, my name is osama I am going to till you about the **the growth mindset**
 
 #What is a growth mindset?
 **_A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._**

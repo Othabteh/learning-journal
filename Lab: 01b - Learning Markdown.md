@@ -3,7 +3,7 @@
 - I am learning programing.
 - Here is my github profile. [Github](https://github.com/Othabteh/)
 <br>
-![mind](mind.png)
+![mind](mind.png =75x70)
 
 <br>
 

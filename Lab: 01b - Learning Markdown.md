@@ -3,3 +3,9 @@
 #What is a growth mindset?
 
 Format: ![mindset-img](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2-1120x1400.png)
+
+**the difference between the th fixed and growth mindset**
+fixed minedset | growth mindset
+------------ | -------------
+avoid challenges | embraces challenges
+Content in the first column | Content in the second column

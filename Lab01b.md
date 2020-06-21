@@ -18,7 +18,3 @@ _A growth mindset believes that one’s fundamental abilities can be developed t
 - Always, Put your goal in front of you.
 
 
-| Task  |  Link |
-|---|:-:|
-|  Learning Markdown | [Read 1](https://othabteh.github.io/learning-journal/Read1)  |
-|  The Coder's Computer  |  [Read 2]() |

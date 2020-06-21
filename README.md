@@ -1,33 +1,27 @@
-# learning-journal
-#here is my summarize of what i have learn till now.
+![Image](https://scontent.famm7-1.fna.fbcdn.net/v/t1.0-1/p160x160/58442795_2421104807948601_58094487854907392_o.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_ohc=OQDj5ed-q4EAX88Lc2_&_nc_ht=scontent.famm7-1.fna&_nc_tp=6&oh=52df71f72408bd4c1d17c6c5fa8419ed&oe=5EB71141)
+<br>
+Hello! I'm Osama Al-thabteh
+- I've a bachelor degree in civil engineering <br>
+- I am learning programing.
+- [Github](https://github.com/Othabteh/)
+<br>
 
-##What is Markdown:
-is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists
+# **Growth Mindset**
 
-##Examples:
-here i will explain what you can do with markdown with exampls.
+_Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
 
-### text editing:
-you can make the text bold by just add a two "**" in start and end of the text.
-ex: **hello**
+## **How to keep yourself in a growth mindset**
+```markdown
+- If someone can do it the you can
+- Every obstacle is a step to your future
+- Always, Put your goal in front of you.
 
-you can make the text etalic by just add a one "*" in start and end of the text.
-ex: *hello*
+```
 
-you can make the text heading by just add a one "#" in start of the text.
-ex: #hello
-
-you can make the text order by just add a anumbert  "1." in start of the text.
-ex: 1.hello
-
-you can make the text unorder by just add a "*" in start of the text.
-ex: * hello
-
-you can add an image for the page by using this format:![GitHub Logo](/images/logo.png)
-all to do is just write the image place then "/" then write the the image name.
-
-
-
+| Task  |  Link |
+|---|:-:|
+|  Learning Markdown | [Read 1](https://osamahanoun.github.io/learning-journal/Read1)  |
+|  The Coder's Computer  |  [Read 2](https://osamahanoun.github.io/learning-journal/Read2) |
 
 
 

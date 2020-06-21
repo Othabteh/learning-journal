@@ -3,7 +3,9 @@ Hello! I'm Osama Al-thabteh
 - I am learning programing.
 - [Github](https://github.com/Othabteh/)
 <br>
-![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png)<br>
+![Image](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png)
+![](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png =100x100)
+<br>
 
 # **Growth Mindset**
 

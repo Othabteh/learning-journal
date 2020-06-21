@@ -18,3 +18,4 @@ _A growth mindset believes that one’s fundamental abilities can be developed t
 - Always, Put your goal in front of you.
 
 
+

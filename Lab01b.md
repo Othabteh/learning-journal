@@ -20,5 +20,5 @@ _A growth mindset believes that one’s fundamental abilities can be developed t
 
 | Task  |  Link |
 |---|:-:|
-|  Learning Markdown | [Read 1]()  |
+|  Learning Markdown | [Read 1](https://othabteh.github.io/learning-journal/Read%201)  |
 |  The Coder's Computer  |  [Read 2]() |

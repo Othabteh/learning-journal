@@ -6,8 +6,8 @@ Emphasis-Italic | \*your text\* or \_your text\_
 Emphasis-Bold | \*\*your text\*\* or \_\_your text\_\_
 Unordered-lists | \* Item1     \* Item2 ...
 Ordered-Lists | 1. Item1       2. Item2 ...
-Links | [GitHub](http://github.com)
-Images | ![GitHub Logo](/images/logo.png)
+Links | [GitHub](/http://url.com/)
+Images | ![GitHub Logo](/images/logo.png/)
 
 
 

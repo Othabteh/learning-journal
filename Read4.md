@@ -13,14 +13,13 @@ meaning.
 
 ## Chapter 8.
 ## Extra Markup.
+
 | **tag** | **syntax** | **Definition** |
-|--------:|-----------:|:--------------:|
-|**<! -- -->** | ** <! -- comment -->** | *to add a comment to your code that will not be visible in the user's browser.* |
-|**< div >** | < div ..div content> </ div> | *The < div > element allows you to group a set of elements together in one block-level box.* |
-
-|**< span >** | < span  content > < /span > | *The < span > element acts like an inline equivalent of the < div> element. It is used to either* |
-
-|**escape characters** | < > & " ¢ £ ¥ ¤ © ® ™ | *The < span > *There are some characters that are used in and reserved by HTML code.* |
+ |-------------:|:---------------|:-------------:|
+ |    **<! -- -->** | <! -- comment --> | *to add a comment to your code that will not be visible in the user's browser.* |
+ | **< div >** | < div ..div content> </ div> | *The < div > element allows you to group a set of elements together in one block-level box.* |
+ | **< span >** | < span  content > < /span > | *The < span > element acts like an inline equivalent of the < div> element. It is used to either* |
+ | **escape characters** | < > & " ¢ £ ¥ ¤ © ® ™ | *The < span > *There are some characters that are used in and reserved by HTML code.* |
 
 
  

@@ -19,3 +19,4 @@ _A growth mindset believes that one’s fundamental abilities can be developed t
 
 
 
+

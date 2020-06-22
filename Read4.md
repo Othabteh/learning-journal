@@ -1,5 +1,5 @@
 # HTML & CSS <br>
-#Design and build websites <br>
+# Design and build websites <br>
 
 ## Chapter 1.<br>
 ## The Structure<br>
@@ -11,16 +11,16 @@ brackets) to give the information they surround special
 meaning.
 * Attributes require a name and a value.
 
-## Chapter 8.<br>
-## Extra Markup.<br>
+## Chapter 8.
+## Extra Markup.
 **tag** | **syntax** | **Definition**
 ------------ | ------------ | -------------
-**<! -- -->** |** <! -- comment -->** |*to add a comment to your code that will not be visible in the user's browser.*
-**< div >** | < div ..div content> </ div> |*The < div > element allows you to group a set of elements together in one block-level box.*
+**<! -- -->** | ** <! -- comment -->** | *to add a comment to your code that will not be visible in the user's browser.*
+**< div >** | < div ..div content> </ div> | *The < div > element allows you to group a set of elements together in one block-level box.*
 
- **< span >**| < span  content > < /span > |*The < span > element acts like an inline equivalent of the < div> element. It is used to either*
+ **< span >** | < span  content > < /span > | *The < span > element acts like an inline equivalent of the < div> element. It is used to either*
 
- **escape characters**| < > & " ¢ £ ¥ ¤ © ® ™ |*The < span > *There are some characters that are used in and reserved by HTML code.*
+ **escape characters** | < > & " ¢ £ ¥ ¤ © ® ™ | *The < span > *There are some characters that are used in and reserved by HTML code.*
 
 
  

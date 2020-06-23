@@ -11,8 +11,8 @@
 | Task    | Link |
 | ----------- | ----------- |
 |  (lab01b) growth mindset    | [Lab01b](https://othabteh.github.io/learning-journal/Lab01b)       |
-|  Learning markdown  | [Read1](https://othabteh.github.io/learning-journal/Read1)       |
-|  The Coder's Computer    | [Read2](https://othabteh.github.io/learning-journal/Read2)      |
-|  Revisions and the Cloud    | [Read3](https://othabteh.github.io/learning-journal/Read3)      |
-|  Structure web pages with HTML    | [Read4](https://othabteh.github.io/learning-journal/Read4)      |
-
+|  Learning markdown  | [Read1](https://othabteh.github.io/learning-journal/Read1) |
+|  The Coder's Computer    | [Read2](https://othabteh.github.io/learning-journal/Read2) |
+|  Revisions and the Cloud    | [Read3](https://othabteh.github.io/learning-journal/Read3) |
+|  Structure web pages with HTML    | [Read4](https://othabteh.github.io/learning-journal/Read4)  |
+|  introduction to CSS  | [Read5](https://othabteh.github.io/learning-journal/Read5) |

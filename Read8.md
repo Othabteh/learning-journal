@@ -1,8 +1,8 @@
 # Comparison  Operators
-![img for comparisson operators](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041.jpg0);
+![comparisson operators](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg);
 
 # Logical Operators
-![img for comparisson operators](https://chunxuchai.files.wordpress.com/2019/05/logical-operator.jpg);
+![logical operators](https://chunxuchai.files.wordpress.com/2019/05/logical-operator.jpg);
 
 # Loops
 Loops are handy, if you want to run the same code over and over again, each time with a different value.

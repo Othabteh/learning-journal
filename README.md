@@ -18,3 +18,4 @@
 |  introduction to CSS  | [Read5](https://othabteh.github.io/learning-journal/Read5) |
 |  how coomputer wroks  | [Read6b](https://othabteh.github.io/learning-journal/Read6b) |
 |  Programming with JavaScript  | [Read7](https://othabteh.github.io/learning-journal/Read7) |
+|  Operators and Loops  | [Read8](https://othabteh.github.io/learning-journal/Read8) |
